@@ -9,7 +9,7 @@
 </div>
 
 ###
-<br clear="both"><br clear="both">
+<br clear="both">
 <img align="right" height="200" src="https://media.tenor.com/NJeAh5aFOjsAAAAi/shigure-ui-dance.gif"  />
 
 ###
@@ -92,7 +92,7 @@
 </div>
 
 ###
-<br clear="both"><br clear="both">
+<br clear="both">
 <div align="center">
   <a href="mr.lim9095" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
