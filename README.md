@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FY123. I'm an avid coder and Soulsborne gamer from Malaysia!</h2>
+<h2 align="left">Hi 👋! My name is FY123. I'm an avid coder and Soulsborne gamer from Malaysia.</h2>
 
 ###
 
